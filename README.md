@@ -3,13 +3,13 @@
 ### Install(Windows)
 
 ```PowerShell
-iwr -useb https://spicetify.zgqinc.gq/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Fxxq-cn/spicetify-marketplace/refs/heads/my-cfg/install.ps1 | iex
 ```
 
 ### Install(Linux)
 
 ```bash
-curl -fsSL https://spicetify.zgqinc.gq/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Fxxq-cn/spicetify-marketplace/refs/heads/my-cfg/install.sh | bash
 ```
 
 ### Marketplace backup
